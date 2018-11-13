@@ -1,5 +1,5 @@
 # 9.1-additional
-# write this on the 3rd line... class Cellphone:
+
 class Cellphone:
     def __init__(self):
         self.manufact = "none"
